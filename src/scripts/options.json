@@ -1,0 +1,3 @@
+{
+    "storage": "./src/database/dev.sqlite"
+}
